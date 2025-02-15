@@ -1,10 +1,23 @@
 {
   "name": "js_course",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViralBans/js_course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViralBans/js_course/issues"
+  },
+  "homepage": "https://github.com/ViralBans/js_course#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
